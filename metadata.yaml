@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/James_Cotter_Morison
 description: Gibbon / J.C. Morison. 1895.--Thomas Carlyle / J. Nichol. 2d ed., 1902.--Macaulay
   / J.C. Morison. 1902.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18851#Gibbon
 gutenberg_issued: '2006-07-17'
 gutenberg_type: Text
 identifiers:
