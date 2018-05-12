@@ -1,0 +1,37 @@
+_repo: Gibbon_18851
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morison, James Cotter
+    aliases:
+    - Morison, J. Cotter (James Cotter)
+    - Morison, James Augustus Cotter
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '8298'
+    url: http://www.gutenberg.org/2009/agents/8298
+    wikipedia: http://en.wikipedia.org/wiki/James_Cotter_Morison
+description: Gibbon / J.C. Morison. 1895.--Thomas Carlyle / J. Nichol. 2d ed., 1902.--Macaulay
+  / J.C. Morison. 1902.
+gutenberg_issued: '2006-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: English Men of Letters
+subjects:
+- !lcsh 'Historians -- Great Britain -- Biography'
+- !lcsh 'Rome -- History -- Empire, 30 B.C.-476 A.D. -- Historiography'
+- !lcsh 'Great Britain -- Intellectual life -- 18th century'
+- !lcsh 'Gibbon, Edward, 1737-1794'
+- !lcsh 'Scholars -- Great Britain -- Biography'
+- !lcc 'PR'
+- !lcsh 'Gibbon, Edward, 1737-1794. History of the decline and fall of the Roman empire'
+title: Gibbon
+url: http://www.gutenberg.org/ebooks/18851
